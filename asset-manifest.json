@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/globalgirlsrescue/static/css/main.752baf37.css",
-    "main.js": "/globalgirlsrescue/static/js/main.7d0f3023.js",
+    "main.js": "/globalgirlsrescue/static/js/main.45ac1645.js",
     "static/js/787.4f69996e.chunk.js": "/globalgirlsrescue/static/js/787.4f69996e.chunk.js",
     "static/media/a.jpg": "/globalgirlsrescue/static/media/a.7d55a778480634f46707.jpg",
     "static/media/home.jpeg": "/globalgirlsrescue/static/media/home.7d55a778480634f46707.jpeg",
@@ -12,11 +12,11 @@
     "static/media/logo.svg": "/globalgirlsrescue/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/globalgirlsrescue/index.html",
     "main.752baf37.css.map": "/globalgirlsrescue/static/css/main.752baf37.css.map",
-    "main.7d0f3023.js.map": "/globalgirlsrescue/static/js/main.7d0f3023.js.map",
+    "main.45ac1645.js.map": "/globalgirlsrescue/static/js/main.45ac1645.js.map",
     "787.4f69996e.chunk.js.map": "/globalgirlsrescue/static/js/787.4f69996e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.752baf37.css",
-    "static/js/main.7d0f3023.js"
+    "static/js/main.45ac1645.js"
   ]
 }
