@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/globalgirlsrescue/static/css/main.73cbe55b.css",
-    "main.js": "/globalgirlsrescue/static/js/main.0328a1df.js",
+    "main.css": "/globalgirlsrescue/static/css/main.ef1b5550.css",
+    "main.js": "/globalgirlsrescue/static/js/main.675973e2.js",
     "static/js/787.4f69996e.chunk.js": "/globalgirlsrescue/static/js/787.4f69996e.chunk.js",
     "static/media/vid.mp4": "/globalgirlsrescue/static/media/vid.a432e6416832f93ec8c5.mp4",
     "static/media/a.jpg": "/globalgirlsrescue/static/media/a.7d55a778480634f46707.jpg",
     "static/media/home.jpeg": "/globalgirlsrescue/static/media/home.7d55a778480634f46707.jpeg",
     "static/media/b.jpeg": "/globalgirlsrescue/static/media/b.eb2242e768c5d11bf005.jpeg",
+    "static/media/p1.jpg": "/globalgirlsrescue/static/media/p1.5909edf5f989c00e14ba.jpg",
     "static/media/c.jpeg": "/globalgirlsrescue/static/media/c.06f7e4802c5da34f869e.jpeg",
+    "static/media/p3.jpeg": "/globalgirlsrescue/static/media/p3.33449d86c65b86dee66c.jpeg",
     "static/media/newss.jpg": "/globalgirlsrescue/static/media/newss.73c92a90857fe35f014b.jpg",
     "static/media/news.jpeg": "/globalgirlsrescue/static/media/news.d4619957e97e54396c7d.jpeg",
     "static/media/d.jpeg": "/globalgirlsrescue/static/media/d.5e72ad7a10006e60acfe.jpeg",
     "static/media/favicon.jpeg": "/globalgirlsrescue/static/media/favicon.1f6108d902c6b7f3a149.jpeg",
     "static/media/e.jpeg": "/globalgirlsrescue/static/media/e.33d787b7eb86376c8eaf.jpeg",
+    "static/media/p2.jpg": "/globalgirlsrescue/static/media/p2.003e390a2affb7b2ba99.jpg",
     "static/media/logo.svg": "/globalgirlsrescue/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/globalgirlsrescue/index.html",
-    "main.73cbe55b.css.map": "/globalgirlsrescue/static/css/main.73cbe55b.css.map",
-    "main.0328a1df.js.map": "/globalgirlsrescue/static/js/main.0328a1df.js.map",
+    "main.ef1b5550.css.map": "/globalgirlsrescue/static/css/main.ef1b5550.css.map",
+    "main.675973e2.js.map": "/globalgirlsrescue/static/js/main.675973e2.js.map",
     "787.4f69996e.chunk.js.map": "/globalgirlsrescue/static/js/787.4f69996e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73cbe55b.css",
-    "static/js/main.0328a1df.js"
+    "static/css/main.ef1b5550.css",
+    "static/js/main.675973e2.js"
   ]
 }
